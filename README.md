@@ -1,1 +1,1 @@
-[Test here](ksaw1228.github.io/dynamic-OnlyJS/)
+[Test URL](ksaw1228.github.io/dynamic-OnlyJS/)
